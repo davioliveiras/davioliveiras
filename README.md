@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Davi Oliveira, computer science student at FMU (Faculdades Metropolitanas Unidas). 
+
+São Paulo, Brasil.
 <!--
 **davioliveiras/davioliveiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
